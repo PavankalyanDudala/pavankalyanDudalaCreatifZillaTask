@@ -81,7 +81,7 @@ header button {
 .banner-section .top-left-vector {
     position: absolute;
     width: 440.49px;
-    height: 804.04px;
+    height: 500.04px;
     top: 5px;
     left: 0px;
 }
@@ -89,7 +89,7 @@ header button {
 .banner-section .top-right-vector {
     position: absolute;
     width: 376.39px;
-    height: 507.35px;
+    height: 380.35px;
     top: 209px;
     right: -10px;
     z-index: 100;
